@@ -2,7 +2,7 @@
 
 Independent, hands-on field notes about what an owner can see after an agent payment is refused or purchase terms change.
 
-**Status:** Field notes v0.1 is prepared for Eric Tsang's final review. It is not yet approved or published.
+**Status:** Field notes v0.1 was approved by Eric Tsang and published on 2026-11-24.
 
 ## Read
 
